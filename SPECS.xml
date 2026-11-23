@@ -28034,7 +28034,7 @@ defaultWorkgroup="ph">-->
    <specification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                   key="FHIR-phd"
                   name="Personal Healthcare Devices (FHIR)"
-                  ballotUrl="http://hl7.org/fhir/uv/phd/3.0.0-202701-ballot "
+                  ballotUrl="http://hl7.org/fhir/uv/phd/3.0.0-202701-ballot"
                   ciUrl="https://build.fhir.org/ig/HL7/phd"
                   defaultVersion="2.0.1"
                   defaultWorkgroup="dev"
@@ -28042,7 +28042,7 @@ defaultWorkgroup="ph">-->
                   url="http://hl7.org/fhir/uv/phd">
       <version code="current" url="https://build.fhir.org/ig/HL7/phd"/>
       <version code="3.0.0-ballot"
-               url="http://hl7.org/fhir/uv/phd/3.0.0-202701-ballot "/>
+               url="http://hl7.org/fhir/uv/phd/3.0.0-202701-ballot"/>
       <version code="2.0.1" url="http://hl7.org/fhir/uv/phd/2.0.1"/>
       <version code="2.0.0"
                deprecated="true"
